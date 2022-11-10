@@ -1,5 +1,15 @@
-## Olá! Sou a Gabriella Cândido, estudante de tecnologia!
+Olá!
+<p>Meu nome é Gabriella e sou estudante de software front-end. Busco aprimorar soft skills e aprender as novidades no mundo da programação.
+Aqui, no Github, tem meus projetos das aulas e projetos pessoais para colocar em prática aquilo que aprendi. Fique à vontade e qualquer dúvida, só me chamar nos canais de comunicação.
+  
+ ##
+ 
+Hi!
+<p>My name is Gabriella and I'm a front-end software student. I seek to improve soft skills and learn the news in the world of programming.
+Here, on Github, I have my class projects and personal projects to put what I learned into practice. Feel free and any questions, just send me e-mails.
 
+ ##
+  
 <div align="center">
   <a href="https://github.com/gabriellacsilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriellacsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
