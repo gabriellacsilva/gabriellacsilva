@@ -1,11 +1,11 @@
 Olá!
-<p>Meu nome é Gabriella e sou estudante de software front-end. Busco aprimorar soft skills e aprender as novidades no mundo da programação.
+<p>Meu nome é Gabriella e sou estudante de Engenharia de Dados. Busco aprimorar soft skills e aprender as novidades no mundo de Banco de Dados.
 Aqui, no Github, tem meus projetos das aulas e projetos pessoais para colocar em prática aquilo que aprendi. Fique à vontade e qualquer dúvida, só me chamar nos canais de comunicação.
   
  ##
  
 Hi!
-<p>My name is Gabriella and I'm a front-end software student. I seek to improve soft skills and learn the news in the world of programming.
+<p>My name is Gabriella and I'm a Data Engineering student. I seek to improve soft skills and learn what's new in the world of Databases.
 Here, on Github, I have my class projects and personal projects to put what I learned into practice. Feel free and any questions, just send me e-mails.
 
  ##
