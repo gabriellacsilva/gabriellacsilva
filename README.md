@@ -4,7 +4,7 @@
 
 Olá!
 <p>Meu nome é Gabriella e sou estudante de Engenharia de Dados. Busco aprimorar soft skills e aprender as novidades no mundo de Banco de Dados.
-Aqui, no Github, tem meus projetos das aulas e projetos pessoais para colocar em prática aquilo que aprendi. Fique à vontade e qualquer dúvida, só me chamar no <a href="https://www.linkedin.com/in/gabriella-cândido/)" title="Linkedin">Linkedin</a>
+Aqui, no Github, tem meus projetos das aulas e projetos pessoais para colocar em prática aquilo que aprendi. Fique à vontade e qualquer dúvida, só me chamar no <a href="https://www.linkedin.com/in/gabriella-cândido/)" title="Linkedin">Linkedin</a>.
   
 ##
  
