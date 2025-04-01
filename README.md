@@ -10,7 +10,7 @@ Aqui, no Github, tem meus projetos das aulas e projetos pessoais para colocar em
  
 Hi!
 <p>My name is Gabriella and I'm a Data Engineering student. I seek to improve soft skills and learn what's new in the world of Databases.
-Here, on Github, I have my class projects and personal projects to put what I learned into practice. Feel free and any questions, just send me a message on <a href="https://www.linkedin.com/in/gabriella-cândido/)" title="Linkedin">Linkedin</a>.
+Here, on Github, I have my class projects and personal projects to put what I learned into practice. Feel free for any questions, just send me a message on <a href="https://www.linkedin.com/in/gabriella-cândido/)" title="Linkedin">Linkedin</a>.
 
 <p align="left">
         <a href="https://github.com/gabriellacsilva?tab=repositories&sort=stargazers">
